@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/10383737/154821129-a9073f2f-a94e-4655-
 ## 🔧 Installing and Setup
 
 - Install the [accompanying obsidian plugin](https://github.com/B4rc1/obsidian-neovim-companion) (Instructions in the Readme)
+- Install this plugin using your favorite package manager: `B4rc1/obsidian-companion.nvim`
 - start a neovim instance with `nvim --listen /tmp/nvimsocket` or `NVIM_LISTEN_ADRESS=/tmp/nvimsocket nvim` (see `:h --listen` and `:h $NVIM_LISTEN_ADRESS` for more information)
   - in case you use [neovim-remote](https://github.com/mhinz/neovim-remote) this is done automatically (when using `nvr` executable).
   - the socket path is configurable in the obsidian settings
