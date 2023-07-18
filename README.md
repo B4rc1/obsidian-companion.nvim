@@ -1,3 +1,6 @@
+# Deprecation Notice
+NOTE: Due to how well the obsidian plugin [latex suit](https://github.com/artisticat1/obsidian-latex-suite) works, I will be archiving this plugin as the usecase for me, namely writing latex, has faded away. The code is pretty modular and fairly clean, if this interests you, feel free to fork :)
+
 # obsidian-companion.nvim
 
 This plugin integrates Neovim into your [obsidian](https://obsidian.md/) editing experience. Currently, it provides:
